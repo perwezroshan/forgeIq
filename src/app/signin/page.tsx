@@ -218,11 +218,6 @@ export default function SigninPage() {
             <p className="text-sm text-gray-600">
               Secure sign-in protected by industry-standard encryption
             </p>
-            <div className="mt-4 space-x-2">
-              <a href="/debug" className="text-xs text-blue-600 hover:text-blue-500">Debug Auth</a>
-              <span className="text-xs text-gray-400">|</span>
-              <a href="/dashboard" className="text-xs text-blue-600 hover:text-blue-500">Direct Dashboard</a>
-            </div>
           </div>
         </form>
       </div>
